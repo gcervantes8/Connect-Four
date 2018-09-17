@@ -13,9 +13,9 @@
 
 ## Tools
 
-Uses Java Swing for GUI
-Sockets for network communication
-Sound for winning
+* Uses Java Swing for GUI
+* Sockets for network communication
+* Sound for winning
 
 
 ## Author
