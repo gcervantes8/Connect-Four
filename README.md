@@ -9,7 +9,13 @@
 
 ## Demo
 
-![Connect Four game demo showing some features](resources/ConnectFourDemo.gif) 
+![Connect Four game demo showing some features](src/resources/ConnectFourDemo.gif) 
+
+## Tools
+
+Uses Java Swing for GUI
+Sockets for network communication
+Sound for winning
 
 
 ## Author
